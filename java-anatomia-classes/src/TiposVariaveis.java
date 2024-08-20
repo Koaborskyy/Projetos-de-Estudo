@@ -18,7 +18,7 @@ public class TiposVariaveis {
 
         System.out.print(numero);
 
-        final double VALOR_DE_PI = 3.14;
+        final double VALOR_DE_PI = 3.14; // "final" seria valor final sem alteração 
 
         System.out.println(VALOR_DE_PI);
     }
