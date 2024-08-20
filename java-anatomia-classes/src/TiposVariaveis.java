@@ -2,9 +2,9 @@ public class TiposVariaveis {
 
     public static void main(String[] args) {
 
-        double salarioMinimo = 2500;
+        // double salarioMinimo = 2500;
 
-        String meuNome = "Octávio Diniz";
+        // String meuNome = "Octávio Diniz";
 
         short numeroCurto = 1;
         int numeroNormal = numeroCurto;
